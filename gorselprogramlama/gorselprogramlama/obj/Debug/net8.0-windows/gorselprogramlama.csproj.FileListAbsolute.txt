@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.Form1.resources
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\bin\Debug\net8.0-windows\gorselprogramlama.exe
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\bin\Debug\net8.0-windows\gorselprogramlama.deps.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\bin\Debug\net8.0-windows\gorselprogramlama.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\bin\Debug\net8.0-windows\gorselprogramlama.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\bin\Debug\net8.0-windows\gorselprogramlama.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\refint\gorselprogramlama.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\gorselprogramlama.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\gorselprogramlama\gorselprogramlama\obj\Debug\net8.0-windows\ref\gorselprogramlama.dll
