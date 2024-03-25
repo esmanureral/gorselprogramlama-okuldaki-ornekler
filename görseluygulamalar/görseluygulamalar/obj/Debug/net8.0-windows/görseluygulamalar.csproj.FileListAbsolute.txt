@@ -1,0 +1,16 @@
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\bin\Debug\net8.0-windows\görseluygulamalar.exe
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\bin\Debug\net8.0-windows\görseluygulamalar.deps.json
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\bin\Debug\net8.0-windows\görseluygulamalar.runtimeconfig.json
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\bin\Debug\net8.0-windows\görseluygulamalar.dll
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\bin\Debug\net8.0-windows\görseluygulamalar.pdb
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.Form1.resources
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.csproj.GenerateResource.cache
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.AssemblyInfoInputs.cache
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.AssemblyInfo.cs
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.csproj.CoreCompileInputs.cache
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.dll
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\refint\görseluygulamalar.dll
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.pdb
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\görseluygulamalar.genruntimeconfig.cache
+C:\Users\esman\source\repos\görseluygulamalar\görseluygulamalar\obj\Debug\net8.0-windows\ref\görseluygulamalar.dll
